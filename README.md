@@ -8,8 +8,6 @@ Le critère d'évaluation retenu dans cette compététion est l'**Area Under the
 
 ## 2. Structure du notebook
 
-### 2.0 Dataviz
-
 ### 2.1 Prétraitements
 
 Le premier notebook **S1_Pretraitements** effectue les opérations suivantes sur les fichiers source (Train set et Test set) fournis par kaggle :
@@ -29,4 +27,5 @@ Le premier notebook **S1_Pretraitements** effectue les opérations suivantes sur
  
  Les deux dataset sont ensuite sauvegardés dans des csv distincts pour être manipulés dans les notebook suivants.
 
- ### 2.1 ML
+ ### 2.2 BigML
+ 
